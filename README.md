@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Francois-Louis/NFT-preview-card-challenge-FEM)
+- Live Site URL: [Live site](https://francois-louis.github.io/NFT-preview-card-challenge-FEM/)
 
 ## My process
 
@@ -50,9 +50,9 @@ After a lot of time, spent in searching solutions like filters, etc... I'm glad 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Francois-Louis)
+- [Linkedin](https://www.linkedin.com/in/fran%C3%A7ois-louis-t-39a01b132/)
+- [Twitter](https://twitter.com/KH4RNYX)
 
 
 
