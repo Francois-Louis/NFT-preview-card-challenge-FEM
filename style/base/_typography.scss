@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+.card {
+    font-family: 'Outfit', sans-serif;
+    
+    &__title{
+        font-weight: 600;
+        color: $titleColor;
+        font-size: 22px;
+        line-height: 28px;
+        align-self: flex-start;
+    }
+    
+    
+    &__text {
+        font-weight: 300;
+        color: $textColor;
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    &__infos, &__author {
+        font-weight: 400;
+        color: $textColor;
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+
+a{
+    color: $titleColor;
+    transition: color 0.25s;
+}
+
+a:hover {
+    color: $interestColor;
+}
+
+strong {
+    color: $interestColor;
+}
+
+.attribution {
+    color: $textColor;
+    font-family: 'Outfit', sans-serif;
+}
+
